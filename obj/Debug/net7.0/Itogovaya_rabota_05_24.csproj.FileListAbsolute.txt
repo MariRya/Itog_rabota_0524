@@ -1,0 +1,15 @@
+D:\Geekbrains\Itogovaya_rabota_05_24\bin\Debug\net7.0\Itogovaya_rabota_05_24.exe
+D:\Geekbrains\Itogovaya_rabota_05_24\bin\Debug\net7.0\Itogovaya_rabota_05_24.deps.json
+D:\Geekbrains\Itogovaya_rabota_05_24\bin\Debug\net7.0\Itogovaya_rabota_05_24.runtimeconfig.json
+D:\Geekbrains\Itogovaya_rabota_05_24\bin\Debug\net7.0\Itogovaya_rabota_05_24.dll
+D:\Geekbrains\Itogovaya_rabota_05_24\bin\Debug\net7.0\Itogovaya_rabota_05_24.pdb
+D:\Geekbrains\Itogovaya_rabota_05_24\obj\Debug\net7.0\Itogovaya_rabota_05_24.csproj.AssemblyReference.cache
+D:\Geekbrains\Itogovaya_rabota_05_24\obj\Debug\net7.0\Itogovaya_rabota_05_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\Itogovaya_rabota_05_24\obj\Debug\net7.0\Itogovaya_rabota_05_24.AssemblyInfoInputs.cache
+D:\Geekbrains\Itogovaya_rabota_05_24\obj\Debug\net7.0\Itogovaya_rabota_05_24.AssemblyInfo.cs
+D:\Geekbrains\Itogovaya_rabota_05_24\obj\Debug\net7.0\Itogovaya_rabota_05_24.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Itogovaya_rabota_05_24\obj\Debug\net7.0\Itogovaya_rabota_05_24.dll
+D:\Geekbrains\Itogovaya_rabota_05_24\obj\Debug\net7.0\refint\Itogovaya_rabota_05_24.dll
+D:\Geekbrains\Itogovaya_rabota_05_24\obj\Debug\net7.0\Itogovaya_rabota_05_24.pdb
+D:\Geekbrains\Itogovaya_rabota_05_24\obj\Debug\net7.0\Itogovaya_rabota_05_24.genruntimeconfig.cache
+D:\Geekbrains\Itogovaya_rabota_05_24\obj\Debug\net7.0\ref\Itogovaya_rabota_05_24.dll
